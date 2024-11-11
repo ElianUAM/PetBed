@@ -1,0 +1,11 @@
+C:\Users\elian\source\repos\petbed\petbed\bin\Debug\petbed.exe.config
+C:\Users\elian\source\repos\petbed\petbed\bin\Debug\petbed.exe
+C:\Users\elian\source\repos\petbed\petbed\bin\Debug\petbed.pdb
+C:\Users\elian\source\repos\petbed\petbed\obj\Debug\petbed.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\petbed\petbed\obj\Debug\petbed.Form1.resources
+C:\Users\elian\source\repos\petbed\petbed\obj\Debug\petbed.Properties.Resources.resources
+C:\Users\elian\source\repos\petbed\petbed\obj\Debug\petbed.csproj.GenerateResource.cache
+C:\Users\elian\source\repos\petbed\petbed\obj\Debug\petbed.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\petbed\petbed\obj\Debug\petbed.exe
+C:\Users\elian\source\repos\petbed\petbed\obj\Debug\petbed.pdb
+C:\Users\elian\source\repos\petbed\petbed\obj\Debug\petbed.Form2.resources
